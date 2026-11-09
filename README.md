@@ -1,4 +1,5 @@
 Nama: Bilal Salya Ramadhan
+NIM:312510178
 Kelas: I251B
 
 <img width="1366" height="768" alt="8 (2-2)" src="https://github.com/user-attachments/assets/abe20597-87e4-4de7-8358-1f0bf052398d" />
